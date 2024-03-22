@@ -1,0 +1,1 @@
+"export default function App(): JSX.Element {\n  return <h1 className=\"bg-red-500 text-blue-500\">Hello world</h1>\n}\n"
